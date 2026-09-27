@@ -1,12 +1,3 @@
-> [!CAUTION]
-> ## 🚨 SECURITY WARNING — DO NOT FLASH "L15Dev" FIRMWARE 🚨
->
-> A firmware build distributed under the name **"L15Dev" / "Bitwire"** has been reported to contain **malware (a virus) and a backdoor**. **Do not download, flash, or run it under any circumstances.**
->
-> Only use the official builds from this repository / the [web flasher](https://elicoftz.github.io/Momuntum_Flipper_For_T_Embed/interface.html). If you already flashed an "L15Dev" image, re-flash a clean official build and treat any credentials/data on the device (WiFi passwords, captures) as compromised.
-
-> WARNING: I do not take responsibility if you damage your board or property. This project is for educational purposes only — proceed at your own risk.
-
 # Momentum T-Embed — Flipper Zero ESP32 Port
 
 A port of the [Flipper Zero](https://flipperzero.one/) firmware — with the **Momentum** feature set — to the **LilyGo T-Embed CC1101** and other ESP32 boards. It brings the Flipper Zero UI, services, and application framework to affordable ESP32 hardware — no Flipper Zero required.
